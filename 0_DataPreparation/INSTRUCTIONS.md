@@ -25,8 +25,8 @@ Focus on the following key issues:
 - (e.g., converting metric data to categorical data)
 
 ## Notes
-`save_dataframe_to_csv(df_merged_extended_weather, "df_merged_extended_weather")` requires `processed` directory inside data to exist.
-`plot_missing_heatmap` function can be used for plotting our dataframes so we can visualize them.
+- `save_dataframe_to_csv(df_merged_extended_weather, "df_merged_extended_weather")` requires `processed` directory inside data to exist.
+- `plot_missing_heatmap` function can be used for plotting our dataframes so we can visualize them.
 
 ## Task
 Create a Jupyter Notebook or Python-script to conduct the data import and preparation process. Ensure each step is well-documented.
