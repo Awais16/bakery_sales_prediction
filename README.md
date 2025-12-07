@@ -50,6 +50,7 @@ We are following trunk base workflow for git
 - Create a feature branch: git branch -b feat/new_feat
 - Commit Changes and push to your branch
 - create a pull request from your branch (feat/new_feat) to main
+- ** Clear All outputs ** before committing. (For now it will be great, we can setup nbstripout later)
 
 ## Kaggle Competition link
 [Kaggle link](https://www.kaggle.com/competitions/bakery-sales-prediction-winter-2025-26)
