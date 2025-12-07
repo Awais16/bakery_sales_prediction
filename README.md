@@ -1,5 +1,10 @@
 # Sales Forecasting for a Bakery Branch
 
+## Team Members (Raum#5)
+- Awais 
+- Yousra
+- Jerry
+
 ## Repository Link
 
 https://github.com/Awais16/bakery_sales_prediction
@@ -31,6 +36,23 @@ Regression
 4.  [**Baseline Model**](2_BaselineModel/)
 5.  [**Model Definition and Evaluation**](3_Model/)
 6.  [**Presentation**](4_Presentation/README.md)
+
+## Getting Started
+
+1. Clone the repository.
+2. Add your data files to the `data/` directory.
+3. Open and run the notebooks in your preferred environment.
+
+## Git Workflow
+We are following trunk base workflow for git
+- Git checkout main
+- Pull main branch: git pull main 
+- Create a feature branch: git branch -b feat/new_feat
+- Commit Changes and push to your branch
+- create a pull request from your branch (feat/new_feat) to main
+
+## Kaggle Competition link
+[Kaggle link](https://www.kaggle.com/competitions/bakery-sales-prediction-winter-2025-26)
 
 ## Cover Image
 
