@@ -48,4 +48,6 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-data/**
+data/processed/**
+
+__pycache__/

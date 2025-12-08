@@ -13,6 +13,7 @@ Focus on the following key issues:
 - We need `processed` folder to exists under `data` i.e `data\processed`
 
 ### Merging Data from different sources
+- [Schulferien source](https://www.schulferien.org/deutschland/kalender/schleswig-holstein/2013/)
 
 ### Data Cleaning
 
