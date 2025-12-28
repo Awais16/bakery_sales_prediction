@@ -49,5 +49,7 @@ po/*~
 rsconnect/
 
 data/processed/**
+!data/processed/df_holidays.csv
+
 
 __pycache__/
