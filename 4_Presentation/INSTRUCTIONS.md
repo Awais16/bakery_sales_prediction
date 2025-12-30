@@ -53,9 +53,10 @@ Your presentation should generally follow this structure:
 4.  **edu.opencampus.sh Submission**:
 
     -   Log in at [edu.opencampus.sh](https://edu.opencampus.sh).
-    -   Navigate to your course and go to the 'achievements' section.
-    -   Select your project title and download possible project specific documentation instructions.
-    -   Upload the main [README](../README.md) via the upload dialog.
-    -   Include co-authors in the upload dialog as applicable.
+        -   Navigate to your course and go to the 'achievements' section.
+            -   Select your project title and download possible project specific documentation instructions.
+                -   Upload the main [README](../README.md) via the upload dialog.
+                    -   Include co-authors in the upload dialog as applicable.
 
-**Deadline**: All submissions will be reviewed post-deadline and certificates will be issued accordingly.
+                    **Deadline**: All submissions will be reviewed post-deadline and certificates will be issued accordingly.
+                    
