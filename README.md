@@ -18,7 +18,7 @@ Neural Net
 
 ### Results Summary
 
--   **Best Model:** [Name of the best-performing model]
+-   **Best Model:** Neural Network ([check model readme](3_Model/README.md))
 -   **Evaluation Metric:** MAPE
 -   **Result by Category** (Identifier):
     -   **Bread** (1): 18.7823%
