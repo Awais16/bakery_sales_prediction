@@ -7,8 +7,8 @@ This stage explores and analyzes the prepared dataset to understand its key char
 ## Implementation
 
 ### Notebooks
-- **`DataCharacter.ipynb`**: Comprehensive exploratory data analysis on merged dataset with extended weather features
-- **`train_data_characteristics.ipynb`**: Focused analysis on cleaned training data
+- [**`DataCharacter.ipynb`**](DataCharacter.ipynb): Comprehensive exploratory data analysis on merged dataset with extended weather features
+- [**`train_data_characteristics.ipynb`**](train_data_characteristics.ipynb): Focused analysis on cleaned training data
 
 ## Dataset Overview
 

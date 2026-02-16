@@ -7,8 +7,8 @@ This stage implements and evaluates a Neural Network model to improve upon basel
 ## Implementation
 
 ### Notebooks
-- **`01_NN_baseline_best.ipynb`**: Initial neural network baseline with MSE loss
-- **`01_NN_best_clean.ipynb`**: Final optimized neural network model with MAPE loss (production version)
+- [**`01_NN_baseline_best.ipynb`**](01_NN_baseline_best.ipynb): Initial neural network baseline with MSE loss
+- [**`01_NN_best_clean.ipynb`**](01_NN_best_clean.ipynb): Final optimized neural network model with MAPE loss (production version)
 
 ## Model Selection
 

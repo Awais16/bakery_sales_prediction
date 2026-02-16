@@ -7,9 +7,9 @@ This stage focuses on importing, merging, cleaning, and preparing the bakery sal
 ## Implementation
 
 ### Notebooks
-- **`yousra_descriptive_stats.ipynb`**: Main notebook for data merging, cleaning, feature engineering, and dataset splitting
-- **`process_holidays.ipynb`**: Processes public and school holiday data for Schleswig-Holstein (2013-2019)
-- **`utils.py`**: Utility functions including `plot_missing_heatmap()` for visualization
+- [**`yousra_descriptive_stats.ipynb`**](yousra_descriptive_stats.ipynb): Main notebook for data merging, cleaning, feature engineering, and dataset splitting
+- [**`process_holidays.ipynb`**](process_holidays.ipynb): Processes public and school holiday data for Schleswig-Holstein (2013-2019)
+- [**`utils.py`**](utils.py): Utility functions including `plot_missing_heatmap()` for visualization
 
 ## Data Importing
 

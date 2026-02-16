@@ -7,11 +7,11 @@ This stage establishes baseline models for bakery sales forecasting. Multiple re
 ## Implementation
 
 ### Notebooks
-- **`LinearRegression_2.ipynb`**: Linear and Polynomial Regression models with feature selection experiments
-- **`CosinorRegression.ipynb`**: Cosinor (rhythmic) regression for capturing periodic sales patterns
-- **`RandomForest.ipynb`**: Random Forest ensemble model
-- **`XGBRegressor.ipynb`**: XGBoost gradient boosting model
-- **`LinearRegression.ipynb`**: Initial linear regression experiments
+- [**`LinearRegression_2.ipynb`**](LinearRegression_2.ipynb): Linear and Polynomial Regression models with feature selection experiments
+- [**`CosinorRegression.ipynb`**](CosinorRegression.ipynb): Cosinor (rhythmic) regression for capturing periodic sales patterns
+- [**`RandomForest.ipynb`**](RandomForest.ipynb): Random Forest ensemble model
+- [**`XGBRegressor.ipynb`**](XGBRegressor.ipynb): XGBoost gradient boosting model
+- [**`LinearRegression.ipynb`**](LinearRegression.ipynb): Initial linear regression experiments
 
 ## Models Implemented
 
