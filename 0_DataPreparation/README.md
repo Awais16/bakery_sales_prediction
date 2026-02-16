@@ -64,8 +64,7 @@ All source CSV files are loaded using pandas and dates are normalized to `dateti
 ### Weather Features (Extended)
 - **`sunshine_duration`**: Total sunshine duration (seconds)
 - **`temperature_2m_mean`**: Mean temperature at 2 meters
-- **`sunshine_hours`**: Sunshine hours
-- Additional weather metrics from Open-Meteo API
+- **`sunshine_hours`**: Sunshine hours (converted from sunshine_duration)
 
 ### Holiday Features
 - **`public_holiday`**: Binary indicator (0/1)

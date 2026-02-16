@@ -153,6 +153,7 @@ This stage establishes baseline models for bakery sales forecasting. Multiple re
 3. **Weather**: Temperature and sunshine positively correlated with sales
 4. **Holidays**: School holidays and public holidays affect sales
 5. **Month/Season**: Monthly patterns captured through month features
+6. **is_last_day_of_year**: Handles last day year exceptional sales
 
 ### Dropped Features
 - `Datum`: Used for splitting but not as feature
